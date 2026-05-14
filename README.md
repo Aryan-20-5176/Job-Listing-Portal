@@ -67,7 +67,7 @@ Note: These credentials are provided so that evaluators can verify how the "Admi
 ## ⚙️ Setup Instructions:
 1️⃣ Clone & Navigate:
 
-git clone: https://github.com/Aryan-20-5176/Job-Listing-Portal1
+git clone: https://github.com/Aryan-20-5176/Job-Listing-Portal
 ```
 cd Job-Listing-Portal
 ```
